@@ -1,0 +1,105 @@
+2 principal components
+RBF SVC score: 0.37601713062098496
+Random Forest score: 0.36377649325626205
+AdaBoost score: 0.34464521815777877
+----------------------------------
+3 principal components
+RBF SVC score: 0.3742992669253989
+Random Forest score: 0.3901076984443558
+AdaBoost score: 0.3424056189640035
+----------------------------------
+4 principal components
+RBF SVC score: 0.36631944444444453
+Random Forest score: 0.3939634630659254
+AdaBoost score: 0.35549760973489786
+----------------------------------
+5 principal components
+RBF SVC score: 0.36546009594417794
+Random Forest score: 0.3845845042151746
+AdaBoost score: 0.34595070422535207
+----------------------------------
+6 principal components
+RBF SVC score: 0.36553524804177545
+Random Forest score: 0.3820678513731826
+AdaBoost score: 0.35133948177426433
+----------------------------------
+7 principal components
+RBF SVC score: 0.36688453159041395
+Random Forest score: 0.39611964430072755
+AdaBoost score: 0.35133948177426433
+----------------------------------
+8 principal components
+RBF SVC score: 0.36498905908096274
+Random Forest score: 0.38401318500206016
+AdaBoost score: 0.3509846827133479
+----------------------------------
+9 principal components
+RBF SVC score: 0.36467486818980666
+Random Forest score: 0.3908608731130151
+AdaBoost score: 0.3509846827133479
+----------------------------------
+10 principal components
+RBF SVC score: 0.36435469710272167
+Random Forest score: 0.3909836065573771
+AdaBoost score: 0.36442516268980474
+----------------------------------
+11 principal components
+RBF SVC score: 0.36451471234079924
+Random Forest score: 0.3857201477226097
+AdaBoost score: 0.3713916415338216
+----------------------------------
+12 principal components
+RBF SVC score: 0.3988269794721408
+Random Forest score: 0.42400315831030394
+AdaBoost score: 0.39966485127775453
+----------------------------------
+13 principal components
+RBF SVC score: 0.394979079497908
+Random Forest score: 0.42766798418972324
+AdaBoost score: 0.4111527257594674
+----------------------------------
+14 principal components
+RBF SVC score: 0.39582463465553236
+Random Forest score: 0.42409829567974633
+AdaBoost score: 0.4154228855721393
+----------------------------------
+15 principal components
+RBF SVC score: 0.4512987012987013
+Random Forest score: 0.44205495818399043
+AdaBoost score: 0.42325010233319693
+----------------------------------
+16 principal components
+RBF SVC score: 0.4520098441345365
+Random Forest score: 0.44960629921259837
+AdaBoost score: 0.4307944307944308
+----------------------------------
+17 principal components
+RBF SVC score: 0.45002056766762644
+Random Forest score: 0.4501582278481013
+AdaBoost score: 0.42898076135898494
+----------------------------------
+18 principal components
+RBF SVC score: 0.4495488105004101
+Random Forest score: 0.4494293585202676
+AdaBoost score: 0.4279869067103109
+----------------------------------
+19 principal components
+RBF SVC score: 0.4470008216926869
+Random Forest score: 0.4404903123764333
+AdaBoost score: 0.43364638628011426
+----------------------------------
+20 principal components
+RBF SVC score: 0.4490968801313629
+Random Forest score: 0.44462088130210403
+AdaBoost score: 0.43258655804480656
+----------------------------------
+21 principal components
+RBF SVC score: 0.4482900700453234
+Random Forest score: 0.4472741742936729
+AdaBoost score: 0.4348884381338742
+----------------------------------
+22 principal components
+RBF SVC score: 0.44636963696369636
+Random Forest score: 0.4488
+AdaBoost score: 0.43793243793243797
+----------------------------------

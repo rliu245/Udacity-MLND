@@ -1,0 +1,23 @@
+feature 1 (Limit_Balance) - Principal Component 13
+feature 2 (Sex) - Principal Component 4
+feature 3 (Education) - Principal Component 6
+feature 4 (Marriage) - Principal Component 12
+feature 5 (Age) - Principal Component 3
+feature 6 (Repayment Status in September 05) - Principal Component 11
+feature 7 (Repayment Status in August 05) - Principal Component 15
+feature 8 (Repayment Status in July 05) - Principal Component 14
+feature 9 (Repayment Status in June 05) - Principal Component 15
+feature 10 (Repayment Status in May 05) - Principal Component 11
+feature 11 (Repayment Status in April 05) - Principal Component 15
+feature 12 (Amount of bill statement in September 05) - Principal Component 0
+feature 13 (Amount of bill statement in August 05) - Principal Component 0
+feature 14 (Amount of bill statement in July 05) - Principal Component 0
+feature 15 (Amount of bill statement in June 05) - Principal Component 0
+feature 16 (Amount of bill statement in May) - Principal Component 0
+feature 17 (Amount of bill statement in April 05) - Principal Component 0
+feature 18 (Amount of previous payment in September 05) - Principal Component 10
+feature 19 (Amount of previous payment in August 05) - Principal Component 10
+feature 20 (Amount of previous payment in July 05) - Principal Component 9
+feature 21 (Amount of previous payment in June 05) - Principal Component 7
+feature 22 (Amount of previous payment in May 05) - Principal Component 6
+feature 23 (Amount of previous payment in April 05) - Principal Component 7
